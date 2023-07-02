@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://gsoc.beagleboard.io/blog</id>
+    <id>https://GSoC2023@beagleboard.com/blog</id>
     <title>OpenGLES Acceleration for Deep Learning Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://gsoc.beagleboard.io/blog"/>
+    <link rel="alternate" href="https://GSoC2023@beagleboard.com/blog"/>
     <subtitle>OpenGLES Acceleration for Deep Learning Blog</subtitle>
-    <icon>https://gsoc.beagleboard.io/img/darknet.png</icon>
+    <icon>https://GSoC2023@beagleboard.com/img/darknet.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
-        <link href="https://gsoc.beagleboard.io/blog/welcome"/>
+        <link href="https://GSoC2023@beagleboard.com/blog/welcome"/>
         <updated>2019-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello everyone. I am Pratham Deshmukh,a 3rd year engineering student at VJTI,Mumbai India. This GSoc 2023, I will be working under the estimeed organisation beagleboard.org foundation and collaborating with my incredible project mentors, Deepak Khatri,Shreyas Atre,Vedant Paranjape and Kumar Abhishek.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[About the project]]></title>
         <id>hello-world</id>
-        <link href="https://gsoc.beagleboard.io/blog/hello-world"/>
+        <link href="https://GSoC2023@beagleboard.com/blog/hello-world"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Aim: Current acceleration on the beagleboard AI-64 focuses on using the EVE and DSP hardware blocks. The SoC on those boards also feature an OpenGLES enabled GPU. The goal with this is to utilize shaders to perform computations. A possible frame work to utilize this on is the Darknet CNN framework.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[hola]]></title>
         <id>hola</id>
-        <link href="https://gsoc.beagleboard.io/blog/2019/05/28/hola"/>
+        <link href="https://GSoC2023@beagleboard.com/blog/2019/05/28/hola"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<!-- ---]]></summary>
     </entry>
