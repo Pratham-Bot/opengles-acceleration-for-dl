@@ -2,8 +2,8 @@
 module.exports = {
   title: 'OpenGLES Acceleration for Deep Learning',
   tagline: 'By Pratham Deshmukh',
-  url: 'https://GSoC2023@beagleboard.com',
-  baseUrl: '/opengles-acceleration-for-dl/',
+  url: 'https://Pratham-Bot.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/darknet.png',
