@@ -3,11 +3,11 @@ module.exports = {
   title: 'OpenGLES Acceleration for Deep Learning',
   tagline: 'By Pratham Deshmukh',
   url: 'https://gsoc.beagleboard.io',
-  baseUrl: '/',
+  baseUrl: '/opengles-acceleration-for-dl/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/darknet.png',
-  organizationName: 'Pratham-Bot', // Usually your GitHub org/user name.
+  organizationName: 'Pratham Deshmukh', // Usually your GitHub org/user name.
   projectName: 'opengles-acceleration-for-dl', // Usually your repo name.
   themeConfig: {
     navbar: {
