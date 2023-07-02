@@ -2,7 +2,7 @@
 module.exports = {
   title: 'OpenGLES Acceleration for Deep Learning',
   tagline: 'By Pratham Deshmukh',
-  url: 'https://gsoc.beagleboard.io',
+  url: 'https://GSoC2023@beagleboard.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
