@@ -7,7 +7,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/darknet.png',
-  organizationName: 'Pratham-Bor', // Usually your GitHub org/user name.
+  organizationName: 'Pratham-Bot', // Usually your GitHub org/user name.
   projectName: '/opengles-acceleration-for-dl/', // Usually your repo name.
   themeConfig: {
     navbar: {
