@@ -32,5 +32,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.",
+  "main": "babel.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
