@@ -11,7 +11,7 @@ module.exports = {
   projectName: '/opengles-acceleration-for-dl/', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'GSoC 2023 @ BeagleBoard.org',
+      title: 'GSoC 2023 @ BeagleBoard.org', 
       logo: {
         alt: 'My GSoC project Logo',
         src: 'img/Google_Summer_of_Code_sun_logo_2022.svg.png',
